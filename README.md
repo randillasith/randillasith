@@ -53,7 +53,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.youtube.com/channel/UCpWe6k8GxYuLmlzlvX7VBRg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://t.me/RandilLasith"><img src="https://img.icons8.com/nolan/64/telegram-app.png"/></a>
 
 </p>
 
