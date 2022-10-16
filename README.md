@@ -54,7 +54,11 @@
 <p align="left">
 
 <a href = "https://t.me/RandilLasith"><img src="https://img.icons8.com/nolan/64/telegram-app.png"/></a>
- <a href = "https://www.facebook.com/L.Randil/"><img src="https://img.icons8.com/nolan/64/facebook-new.png"/></a>
+<a href = "https://www.facebook.com/L.Randil/"><img src="https://img.icons8.com/nolan/64/facebook-new.png"/></a>
+<a href = "https://twitter.com/RandilLasith"><img src="https://img.icons8.com/nolan/64/twitter.png"/></a>
+<a href = "https://twitter.com/RandilLasith"><img src="https://img.icons8.com/nolan/64/twitter.png"/></a>
+<a href = "https://twitter.com/RandilLasith"><img src="https://img.icons8.com/nolan/64/twitter.png"/></a>
+
 
 </p>
 
