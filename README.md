@@ -57,7 +57,7 @@
 
 </p>
 
-## ❤️ Views and Followers
+## Views and Followers
 <a href="https://komarev.com/ghpvc/?username=your-github-randillasith">
     <img src="https://komarev.com/ghpvc/?username=randillasith">
 </a>
