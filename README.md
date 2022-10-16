@@ -54,6 +54,7 @@
 <p align="left">
 
 <a href = "https://t.me/RandilLasith"><img src="https://img.icons8.com/nolan/64/telegram-app.png"/></a>
+ <a href = "https://t.me/RandilLasith"><img src="https://img.icons8.com/nolan/64/telegram-app.png"/></a>
 
 </p>
 
