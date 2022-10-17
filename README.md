@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" /></a>
 
-<h1 align="center">Hi <alt="Coding" width="40000" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">, I'm Randil</h1>
+<h1 align="center">Hi  I'm Randil</h1>
 <h3 align="center">I'm a Student  from Sri Lanka.</h3>
 
 
