@@ -1,8 +1,10 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" /></a>
-h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<a href="#"><img width="100%" height="auto" src="https://img.freepik.com/free-vector/programming-concept-it-education-student-writing-software-coding-application-java-script-it-project-digital-technology-development-website-interface-vector-illustration_613284-1712.jpg?w=740&t=st=1665941700~exp=1665942300~hmac=cf78ac5567aaa216912dc59caa3c581e141675042b7d53071f5a86ec5ae6c2fc" width="3000px"/></a>
 
-<h1 align="center">Hi  I'm Randil</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Randil</h1>
 <h3 align="center">I'm a Student  from Sri Lanka.</h3>
+
+
+
 
 
 
