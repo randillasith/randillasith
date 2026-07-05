@@ -59,6 +59,22 @@
 <img src="https://github.com/randillasith/randillasith/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
+## 🔥 Contribution Insights
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=randillasith&theme=github_dark" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=randillasith&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=randillasith&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=randillasith&theme=github_dark" width="32%"/>
+</div>
+
+---
+
 ## 🌐 Connect with me
 
 <p align="center">
